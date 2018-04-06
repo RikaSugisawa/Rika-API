@@ -14,8 +14,8 @@ pos|**Lat**,**Lng**|string|33.402126,116.435564
 Type|Location type|string|**GPS** or **Network**
 
 Return Value:  
-**HTTP 200 with nothing returned** :OK  
-**HTTP 400 with some or no content** :Fail
+**HTTP 200 with nothing returned**: OK  
+**HTTP 400 with some or no content**: Fail
 
 ## /map
 
